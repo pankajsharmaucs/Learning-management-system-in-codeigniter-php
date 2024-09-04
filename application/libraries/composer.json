@@ -1,0 +1,9 @@
+{
+	"require": {
+		"gufy/pdftohtml-php": "~2",
+		"mpdf/mpdf": "^8.0",
+		"phpoffice/phpspreadsheet": "^1.13",
+		"spiritix/html-to-pdf": "^2.0",
+		"image-charts/image-charts": "^5.5"
+	}
+}
